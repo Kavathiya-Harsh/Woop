@@ -1,6 +1,6 @@
 # 🛍️ Woop
 
-A fully responsive, feature-rich clone of the **Surf winds** Travel platform, built with a focus on clean UI, smooth user experience, and scalable architecture.
+A fully responsive, feature-rich clone of the **Woop** Travel platform, built with a focus on clean UI, smooth user experience, and scalable architecture.
 
 ---
 
@@ -59,7 +59,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## ⚠️ Disclaimer
 
-This project is built **for educational purposes only** as a UI/UX clone. All design credits go to the original [Surf winds](https://stirring-paprenjak-1c95ce.netlify.app/) brand. This is not affiliated with or endorsed by Aretto.
+This project is built **for educational purposes only** as a UI/UX clone. All design credits go to the original [Surf winds](https://dynamic-begonia-66c224.netlify.app/) brand. This is not affiliated with or endorsed by Woop.
 
 ---
 
